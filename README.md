@@ -1,4 +1,4 @@
-Number plate recognition using machine learning
+**Number plate recognition using machine learning**
 
 **Project Overview**
 

@@ -1,5 +1,6 @@
 **Number plate recognition using machine learning**
 
+
 **Project Overview**
 
 It is number plate recognition using Machine Learning . In this System we will recognize the number plate of vehicle. The number plate recognition is an image processing technique to extract the image of license plate on vehicle taken by digital camera or taken by either a colour or a grayscale digital camera, as well as an infrared camera in order to identify the vehicles using their number plate. It consists of a camera to detect the number plate object and processing unit to process and extract the characters and interpret the pixels into numerically readable characters
